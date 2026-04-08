@@ -1,0 +1,14 @@
+{
+  "school_slug": "imperial",
+  "school_name": "Imperial College London",
+  "program_slug": "msc-artificial-intelligence",
+  "program_name": "MSc Artificial Intelligence",
+  "page_type": "overview",
+  "page_title": "Artificial Intelligence MSc | Study | Imperial College London",
+  "source_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/artificial-intelligence/",
+  "final_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/artificial-intelligence/",
+  "fetched_at": "2026-04-08T21:35:19.781866+08:00",
+  "content_hash": "sha256:a3fb7f7aa20f584fe98cd117cc0e232f24b28da5e8bb5eb5798960f1c23eba68",
+  "status": "success",
+  "http_status": 200
+}

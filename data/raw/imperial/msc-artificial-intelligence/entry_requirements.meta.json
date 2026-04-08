@@ -1,0 +1,14 @@
+{
+  "school_slug": "imperial",
+  "school_name": "Imperial College London",
+  "program_slug": "msc-artificial-intelligence",
+  "program_name": "MSc Artificial Intelligence",
+  "page_type": "entry_requirements",
+  "page_title": "MSc Artificial Intelligence | Faculty of Engineering | Imperial College London",
+  "source_url": "https://www.imperial.ac.uk/computing/prospective-students/pg/mai/",
+  "final_url": "https://www.imperial.ac.uk/computing/prospective-students/pg/mai/",
+  "fetched_at": "2026-04-08T21:35:26.440348+08:00",
+  "content_hash": "sha256:707e6c6b4f9737bbc5232f43fb277edf05ade5718cc227cbed64aa1f564ec7c1",
+  "status": "success",
+  "http_status": 200
+}

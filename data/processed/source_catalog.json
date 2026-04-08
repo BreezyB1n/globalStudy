@@ -1,0 +1,228 @@
+[
+  {
+    "school_slug": "mit",
+    "school_name": "Massachusetts Institute of Technology",
+    "country": "US",
+    "program_slug": "sm-electrical-engineering-computer-science",
+    "program_name": "Master of Science in Electrical Engineering and Computer Science",
+    "degree_type": "SM",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://www.eecs.mit.edu/academics/graduate-programs/degree-programs/"
+      },
+      {
+        "page_type": "entry_requirements",
+        "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/"
+      }
+    ]
+  },
+  {
+    "school_slug": "imperial",
+    "school_name": "Imperial College London",
+    "country": "UK",
+    "program_slug": "msc-artificial-intelligence",
+    "program_name": "MSc Artificial Intelligence",
+    "degree_type": "MSc",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/artificial-intelligence/"
+      },
+      {
+        "page_type": "entry_requirements",
+        "url": "https://www.imperial.ac.uk/computing/prospective-students/pg/mai/"
+      }
+    ]
+  },
+  {
+    "school_slug": "stanford",
+    "school_name": "Stanford University",
+    "country": "US",
+    "program_slug": "ms-computer-science",
+    "program_name": "MS in Computer Science",
+    "degree_type": "MS",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://www.cs.stanford.edu/masters-program-overview"
+      }
+    ]
+  },
+  {
+    "school_slug": "oxford",
+    "school_name": "University of Oxford",
+    "country": "UK",
+    "program_slug": "msc-advanced-computer-science",
+    "program_name": "MSc Advanced Computer Science",
+    "degree_type": "MSc",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science"
+      }
+    ]
+  },
+  {
+    "school_slug": "harvard",
+    "school_name": "Harvard University",
+    "country": "US",
+    "program_slug": "masters-computational-science-engineering",
+    "program_name": "Master's in Computational Science and Engineering",
+    "degree_type": "ME/SM",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://seas.harvard.edu/masters-computational-science-and-engineering"
+      }
+    ]
+  },
+  {
+    "school_slug": "cambridge",
+    "school_name": "University of Cambridge",
+    "country": "UK",
+    "program_slug": "mphil-advanced-computer-science",
+    "program_name": "MPhil in Advanced Computer Science",
+    "degree_type": "MPhil",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://www.cst.cam.ac.uk/admissions/acs"
+      }
+    ]
+  },
+  {
+    "school_slug": "eth-zurich",
+    "school_name": "ETH Zurich",
+    "country": "Switzerland",
+    "program_slug": "msc-computer-science",
+    "program_name": "Master of Science ETH in Computer Science",
+    "degree_type": "MSc",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html"
+      }
+    ]
+  },
+  {
+    "school_slug": "nus",
+    "school_name": "National University of Singapore",
+    "country": "Singapore",
+    "program_slug": "master-of-computing-in-artificial-intelligence",
+    "program_name": "Master of Computing in Artificial Intelligence",
+    "degree_type": "MComp",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://www.comp.nus.edu.sg/programmes/pg/mcomp-ai/"
+      }
+    ]
+  },
+  {
+    "school_slug": "ucl",
+    "school_name": "University College London",
+    "country": "UK",
+    "program_slug": "msc-computer-science",
+    "program_name": "Computer Science MSc",
+    "degree_type": "MSc",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc"
+      }
+    ]
+  },
+  {
+    "school_slug": "caltech",
+    "school_name": "California Institute of Technology",
+    "country": "US",
+    "program_slug": "graduate-degree-computer-science",
+    "program_name": "Graduate Degree in Computer Science",
+    "degree_type": "MS/PhD",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://www.cms.caltech.edu/academics/grad/grad_cs"
+      }
+    ]
+  },
+  {
+    "school_slug": "hku",
+    "school_name": "The University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "program_slug": "msc-artificial-intelligence",
+    "program_name": "Master of Science in Artificial Intelligence",
+    "degree_type": "MSc",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://www.mscai.hku.hk/"
+      },
+      {
+        "page_type": "entry_requirements",
+        "url": "https://www.mscai.hku.hk/admissions/"
+      }
+    ]
+  },
+  {
+    "school_slug": "ntu-singapore",
+    "school_name": "Nanyang Technological University",
+    "country": "Singapore",
+    "program_slug": "msc-artificial-intelligence",
+    "program_name": "Master of Science in Artificial Intelligence",
+    "degree_type": "MSc",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-artificial-intelligence"
+      }
+    ]
+  },
+  {
+    "school_slug": "uchicago",
+    "school_name": "University of Chicago",
+    "country": "US",
+    "program_slug": "masters-program-in-computer-science",
+    "program_name": "Master's Program in Computer Science",
+    "degree_type": "MPCS",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://cs.uchicago.edu/academics/masters/mpcs/mpcs/"
+      }
+    ]
+  },
+  {
+    "school_slug": "pku",
+    "school_name": "Peking University",
+    "country": "China",
+    "program_slug": "master-program-computer-science",
+    "program_name": "Master Program in Computer Science",
+    "degree_type": "Master",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://cs.pku.edu.cn/internationalization/Program.htm"
+      },
+      {
+        "page_type": "entry_requirements",
+        "url": "https://cs.pku.edu.cn/info/1179/4130.htm"
+      }
+    ]
+  },
+  {
+    "school_slug": "upenn",
+    "school_name": "University of Pennsylvania",
+    "country": "US",
+    "program_slug": "master-computer-information-technology",
+    "program_name": "Master of Computer and Information Technology",
+    "degree_type": "MCIT",
+    "pages": [
+      {
+        "page_type": "overview",
+        "url": "https://www.seas.upenn.edu/academics/programs/computer-and-information-technology/"
+      }
+    ]
+  }
+]
