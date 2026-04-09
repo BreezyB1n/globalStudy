@@ -28,6 +28,8 @@ def app_env(monkeypatch: pytest.MonkeyPatch) -> dict[str, str]:
         "VECTOR_CHUNK_OVERLAP": "120",
         "VECTOR_EMBED_BATCH_SIZE": "10",
         "VECTOR_BUILD_FAILURE_LOG_PATH": "logs/vector_build_failures.jsonl",
+        "CHAT_VECTOR_TOP_K": "4",
+        "CHAT_CITATION_LIMIT": "4",
     }
     for key, value in env.items():
         monkeypatch.setenv(key, value)
@@ -69,6 +71,8 @@ def crawl_app_env(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> dict[str, 
         "VECTOR_CHUNK_OVERLAP": "120",
         "VECTOR_EMBED_BATCH_SIZE": "10",
         "VECTOR_BUILD_FAILURE_LOG_PATH": str(tmp_path / "logs" / "vector_build_failures.jsonl"),
+        "CHAT_VECTOR_TOP_K": "4",
+        "CHAT_CITATION_LIMIT": "4",
     }
     for key, value in env.items():
         monkeypatch.setenv(key, value)

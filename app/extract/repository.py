@@ -201,6 +201,19 @@ class SQLiteProjectRepository:
         )
         return ProjectRecord.model_validate(dict(row)) if row else None
 
+    def list_projects(self) -> list[ProjectRecord]:
+        rows = self._fetch_all(
+            """
+            SELECT id, school_slug, school_name, school_country, program_slug, program_name, degree_type,
+                   department, study_mode, duration, duration_months, tuition, application_deadline,
+                   language_requirement, academic_requirement, overview, last_verified_at, created_at, updated_at
+            FROM projects
+            ORDER BY school_name, program_name
+            """,
+            (),
+        )
+        return [ProjectRecord.model_validate(dict(row)) for row in rows]
+
     def list_source_pages(self, school_slug: str, program_slug: str) -> list[SourcePageRecord]:
         rows = self._fetch_all(
             """

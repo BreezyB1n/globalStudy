@@ -72,6 +72,8 @@ class Settings(BaseSettings):
     vector_chunk_size: int = Field(default=900, validation_alias="VECTOR_CHUNK_SIZE")
     vector_chunk_overlap: int = Field(default=120, validation_alias="VECTOR_CHUNK_OVERLAP")
     vector_embed_batch_size: int = Field(default=10, validation_alias="VECTOR_EMBED_BATCH_SIZE")
+    chat_vector_top_k: int = Field(default=4, validation_alias="CHAT_VECTOR_TOP_K")
+    chat_citation_limit: int = Field(default=4, validation_alias="CHAT_CITATION_LIMIT")
 
     @field_validator(
         "sqlite_path",
